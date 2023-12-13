@@ -1,0 +1,6 @@
+{
+  "parent": "environmentaltechlegacy:block/templates/controller_solar",
+  "textures": {
+    "frame": "environmentaltechlegacy:block/solar_frames/litherite"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "environmentaltechlegacy:block/templates/solar_cell",
+  "textures": {
+    "bottom": "environmentaltechlegacy:block/erodium_structure_frame",
+    "top": "environmentaltechlegacy:block/erodium_solar_cell_top"
+  }
+}

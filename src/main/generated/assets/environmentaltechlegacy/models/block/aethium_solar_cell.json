@@ -1,0 +1,7 @@
+{
+  "parent": "environmentaltechlegacy:block/templates/solar_cell",
+  "textures": {
+    "bottom": "environmentaltechlegacy:block/aethium_structure_frame",
+    "top": "environmentaltechlegacy:block/aethium_solar_cell_top"
+  }
+}
